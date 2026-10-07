@@ -1,0 +1,8 @@
+requests
+python-dotenv
+pillow
+transformers
+torch
+torchvision
+pytest
+streamlit

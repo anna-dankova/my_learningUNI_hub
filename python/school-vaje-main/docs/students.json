@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Anna",
+    "age": 20,
+    "grades": [
+      90,
+      85
+    ],
+    "type": "Student"
+  },
+  {
+    "name": "Maria",
+    "age": 21,
+    "grades": [
+      95
+    ],
+    "type": "UniversityStudent"
+  },
+  {
+    "name": "Kira",
+    "age": 19,
+    "grades": [
+      90,
+      80
+    ],
+    "type": "Student"
+  },
+  {
+    "name": "Ivan",
+    "age": 15,
+    "grades": [
+      70,
+      60
+    ],
+    "type": "SchoolStudent",
+    "_class": "10A"
+  }
+]

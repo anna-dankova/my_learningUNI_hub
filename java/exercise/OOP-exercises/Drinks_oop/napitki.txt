@@ -1,0 +1,13 @@
+*A, Iced Tea, 2.99
+*A, Voda, 1.50
+*A, Kava, 2.20
+*B, Pomarančni sok, 3.40, false
+*B, Jabolčni sok, 2.80, true
+*B, Ananasov sok, 3.10, false
+*C, Coca-Cola, 2.50, 0.5, false
+*C, Radenska, 1.80, 1.0, true
+*C, Sprite, 2.40, 0.33, false
+*C, Fanta, 2.30, 0.5, false
+*D, Bezgov sirup, 5.50, rumena
+*D, Malinov sirup, 4.90, rdeča
+*D, Borovnicev sirup, 6.20, vijolicna

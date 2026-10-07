@@ -1,0 +1,15 @@
+# Список книг в библиотеке
+*A, Mistral, Ivan Cankar, 12.99
+*A, carobna gora, Thomas Mann, 15.50
+
+# Бумажные книги
+*B, Vojna in mir, Lev Tolstoj, 18.00, 1200
+*B, Kratke zgodbe, Anton Čehov, 9.90, 320
+
+# Электронные книги
+*C, Uvod v Javo, Janez Novak, 7.50, 5.2
+*C, Algoritmi v praksi, Miha Kralj, 11.00, 8.7
+
+# Комиксы
+*D, Batman: Temni vitez, Frank Miller, 13.40, John Doe, barvni
+*D, Manga: Spirited World, Kana Tanaka, 9.20, Kana Tanaka, crno-beli

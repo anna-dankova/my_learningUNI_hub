@@ -1,0 +1,12 @@
+*A, Ogrska salama, 8.90
+*A, Kekec pašteta, 1.78
+*A, Solata, 0.78
+*B, Babičin, 3.5, ne
+*B, Hrustek, 3.78, ne
+*B, Skorjavc, 3.5, ne
+*C, Livada, 5.45, 45, ne
+*C, Alpsko mleko brez laktoze, 1.65, 3.2, da
+*C, Skuta, 2.78, 12, ne
+*D, Banane, 2.34, rumena
+*D, Jagode, 4.56, rdeča
+*D, Pomaranče, 2.3, oranžna

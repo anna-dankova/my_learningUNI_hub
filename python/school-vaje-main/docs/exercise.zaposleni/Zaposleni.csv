@@ -1,0 +1,201 @@
+ID;Priimek;Ime;Naslov;Pošta;Kraj;Datum rojstva;Spol;Izobrazba;Oddelek;Delovno mesto;Datum zaposlitve;Plača
+1;Oblak;Miha;Glavni trg 12;3000;Celje;22.10.1953;m;VIII;Vodstvo;Direktor;1.01.2002;2.352,52 €
+2;Kmetec;Marijana;Ljubljanska cesta 14;3000;Celje;20.01.1983;ž;V;Posadka;Stevard/esa;1.01.2003;1.561,99 €
+3;Kmetec;Ivan;Betnavska cesta 19;2000;Maribor;28.03.1967;m;V;IT;Programer;1.03.2003;1.272,71 €
+4;Klemenčič;David;Gajstova pot 2a;3230;Šentjur;16.07.1956;m;VII;Vzdrževanje;Mehanik;1.06.2002;1.243,96 €
+5;Klemenc;Patricija;Na Produ 17;2391;Prevalje;26.12.1976;ž;V;Posadka;Stevard/esa;1.01.2003;1.564,84 €
+6;Kitak;Vesna;Zaloška 69;1000;Ljubljana;8.12.1980;ž;V;Trženje;Komercialist;1.01.2003;1.247,93 €
+7;Kermauc;Marjan;Lesično 5b;3261;Lesično;4.10.1957;m;V;Vzdrževanje;Mehanik;1.01.2003;1.228,00 €
+8;Kaučič;Nataša;Kranjčeva 8;9220;Lendava/Lendva;26.06.1977;ž;VI;Posadka;Stevard/esa;1.09.2002;1.569,80 €
+9;Kasapovič;Pia;Miloša Zidanška 10;3230;Šentjur;16.08.1976;ž;V;Posadka;Stevard/esa;1.01.2003;1.577,00 €
+10;Jokanović;Miroslav;Košnica 39b;3000;Celje;29.10.1962;m;V;Trženje;Analitik;1.01.2002;1.355,56 €
+11;Jocič;Ivica;Industrijska ulica 28;2000;Maribor;24.11.1982;m;VI;IT;Programer;1.03.2003;1.247,71 €
+12;Jereb;Diana;Miklošičeva 1;3000;Celje;25.05.1981;ž;VII;Posadka;Stevard/esa;1.09.2002;1.582,03 €
+13;Javornik;Viljem;Attemsov trg 3;3342;Gornji Grad;30.12.1956;m;VII;Vodstvo;Član uprave;1.02.2003;1.735,76 €
+14;Jarc;Sonja;Griže 25;3302;Griže;22.02.1973;m;VI;Posadka;Pilot;1.11.2003;1.760,11 €
+15;Jadadić;Laura;Ljubljanska 17;3000;Celje;17.03.1957;ž;V;Trženje;Analitik;1.06.2002;1.372,98 €
+16;Irgolič;Anabrita;Ulica Alojzije Marinšek 27;2341;Limbuš;28.09.1977;ž;VII;Posadka;Stevard/esa;1.09.2002;1.581,54 €
+17;Hostnik;Jasna;Ul. Ruške čete 12;2342;Ruše;13.01.1970;ž;IV;Trženje;Komercialist;1.06.2002;1.255,73 €
+18;Horvat;Suzana;Kraigherjeva 24;3000;Celje;27.08.1965;ž;V;Trženje;Komercialist;1.03.2002;1.271,84 €
+19;Horvat;Simona;Plečnikova 29;3000;Celje;1.07.1970;ž;VI;Trženje;Komercialist;1.06.2002;1.252,48 €
+20;Horvat;Sonja;Nova ulica 11;2327;Rače;11.05.1970;ž;V;Trženje;Komercialist;1.01.2005;1.273,00 €
+21;Horvat;Tadeja;Ulica skladateljev Ipavcev 36;3230;Šentjur;28.04.1965;ž;V;Trženje;Referent;1.01.2005;1.211,69 €
+22;Horvat;Ivan;Tabor 21;3304;Tabor;30.03.1961;m;V;Vzdrževanje;Mehanik;1.03.2002;1.249,88 €
+23;Horvat;Gojko;Zdraviliški trg 14;3250;Rogaška Slatina;6.02.1983;m;V;Vzdrževanje;Tehnik;1.01.2002;1.210,35 €
+24;Holc;Peter;Rožna dolina c.V/9;1000;Ljubljana;4.10.1983;m;VI;Posadka;Pilot;1.11.2002;1.765,99 €
+25;Hojski;Nadja;Zadobrova 88;3211;Škofja vas;20.12.1977;ž;VII;Trženje;Analitik;1.01.2002;1.373,25 €
+26;Hojski;Mojca;Cesta na Ostrožno 4;3000;Celje;28.06.1978;ž;V;Posadka;Stevard/esa;1.01.2003;1.561,78 €
+27;Hojnik;Dragica;Tovarniška cesta 5;3214;Zreče;14.12.1986;ž;V;Posadka;Stevard/esa;1.01.2003;1.559,46 €
+28;Hodnik;Alenka;Polzela 8;3313;Polzela;29.09.1979;ž;VII;Skupne službe;Vodja;1.01.2002;1.667,77 €
+29;Herman;Mojca;Luče 106;3334;Luče;13.09.1978;ž;V;IT;Programer;1.03.2002;1.261,93 €
+30;Herlič;Damijan;Erjavčeva Ulica 7;1233;Dob;7.08.1981;m;V;IT;Programer;1.01.2002;1.248,64 €
+31;Hedl;Bojan;Ulica Cvetke Jerin 5;3220;Štore;6.12.1983;m;VI;Posadka;Pilot;1.11.2002;1.761,67 €
+32;Guid;Lara;Mariborska c. 10;2327;Rače;16.01.1959;ž;IV;Trženje;Komercialist;1.06.2002;1.263,61 €
+33;Gselman;Janja;Lahovna 1a;3000;Celje;13.06.1981;ž;VII;Posadka;Stevard/esa;1.09.2002;1.565,10 €
+34;Gril;Boris;Slovenska cesta 12;1000;Ljubljana;2.04.1965;m;V;IT;Programer;1.03.2003;1.261,96 €
+35;Grbić;Jasmina;Leninova 4;9250;Gornja Radgona;23.09.1973;ž;V;Trženje;Komercialist;1.01.2002;1.258,42 €
+36;Gorišek;Karolina;Podvin 21;3310;Žalec;11.10.1961;ž;V;Trženje;Referent;1.01.2003;1.219,76 €
+37;Gonzales;Manuela;Podrovnik 24;4201;Zgornja Besnica;8.08.1983;ž;V;Posadka;Stevard/esa;1.01.2003;1.566,90 €
+38;Golenko;Zorica;Ul. Savinjske čete 5;3310;Žalec;12.10.1982;ž;VI;Posadka;Stevard/esa;1.09.2002;1.572,98 €
+39;Glažar;Saša;Proletarskih brigad 65;2000;Maribor;17.08.1972;ž;V;IT;Sistemski inženir;1.03.2003;1.354,81 €
+40;Geč;Juliana;Dellavallejeva 16;6000;Koper/Capodistria;15.01.1963;ž;V;Trženje;Analitik;1.06.2002;1.353,51 €
+41;Gassenburger;Igor;Solčava 16;3335;Solčava;27.04.1974;m;VI;Posadka;Pilot;1.11.2004;1.757,73 €
+42;Gabrovec;Nina;Resljeva Ulica 18;3000;Celje;13.03.1977;ž;V;Posadka;Stevard/esa;1.01.2003;1.577,83 €
+43;Gabrijan;Mirko;Jenkova 38;2000;Maribor;11.09.1952;m;VII;Trženje;Analitik;1.02.2003;1.364,84 €
+44;Firar;Rok;Cankarjeva 1;3000;Celje;30.08.1956;m;VI;Posadka;Pilot;1.11.2002;1.759,73 €
+45;Fidler;Danilo;Dušana Kvedra 45;3230;Šentjur;12.02.1959;m;V;Vzdrževanje;Mehanik;1.01.2003;1.227,40 €
+46;Fajfar;Gorazd;Celjska 7;3250;Rogaška Slatina;30.08.1976;m;V;Vzdrževanje;Mehanik;1.01.2002;1.234,85 €
+47;Dvoršak;Darinka;Dunajska 48;1000;Ljubljana;15.08.1969;ž;VII;IT;Programer;1.03.2003;1.269,61 €
+48;Dvoršak;Mirko;Cesta Žalskega tabora 10;3310;Žalec;10.12.1962;m;V;Vodstvo;Pomočnik direktorja;1.01.2002;1.907,98 €
+49;Duh;Pija;Teharska 34;3000;Celje;3.06.1976;ž;VI;Posadka;Stevard/esa;1.09.2002;1.574,83 €
+50;Duh;Edita;Kidričeva 21;3000;Celje;3.03.1986;ž;V;Posadka;Stevard/esa;1.01.2003;1.571,29 €
+51;Dornik;Nina;Ob mežici 12 c;2392;Mežica;18.01.1977;ž;V;Posadka;Stevard/esa;1.01.2003;1.571,80 €
+52;Djurovič;Mile;Poljanski nasip 14;1000;Ljubljana;10.06.1963;m;V;Vodstvo;Član uprave;1.03.2003;1.740,97 €
+53;Dimova;Tatjana;Ulica XIV. divizije 4;3000;Celje;3.11.1962;ž;VI;Skupne službe;Računovodja;1.01.2003;1.402,24 €
+54;Derganc;Anita;Plečnikova 3;2000;Maribor;19.06.1972;ž;VII;Trženje;Analitik;1.02.2003;1.356,99 €
+55;Dečman;Zdravko;Norberta Vebra 17;2342;Ruše;12.04.1984;m;V;IT;Programer;1.03.2003;1.257,94 €
+56;Ćirić;Jasmina;Aškerčev Trg 14;3240;Šmarje pri Jelšah;10.02.1978;ž;IV;Trženje;Komercialist;1.01.2003;1.258,10 €
+57;Čosič;Srečko;Cesta Kozjanskega odreda 59;3230;Šentjur;30.01.1958;m;IV;Vzdrževanje;Vzdrževalec;1.06.2002;1.015,89 €
+58;Čižič;Marko;Vrhunčeva 25d;3000;Celje;2.11.1952;m;IV;Vzdrževanje;Vzdrževalec;1.06.2002;1.024,97 €
+59;Ciringer;Lea;Badovinčeva 16;3270;Laško;7.03.1956;ž;IV;Trženje;Komercialist;1.01.2003;1.248,49 €
+60;Cerovac;Lidija;Cesta na Roglo 13b;3214;Zreče;23.07.1987;ž;V;Trženje;Referent;1.01.2003;1.207,32 €
+61;Cafnik;Andrej;Polzela 8;3313;Polzela;16.07.1955;m;V;Vzdrževanje;Mehanik;1.06.2002;1.247,97 €
+62;Buček;Adnan;Aškerčeva cesta 1;3272;Rimske Toplice;4.02.1963;m;VI;Posadka;Pilot;1.11.2002;1.761,78 €
+63;Bučan;Darja;Regentova 2;2000;Maribor;1.12.1965;ž;VII;IT;Sistemski inženir;1.03.2003;1.361,98 €
+64;Brunec;Marta;Aškerčeva Ulica 12;3000;Celje;11.07.1982;ž;V;Posadka;Stevard/esa;1.01.2005;1.573,16 €
+65;Brglez;Metka;Zgornje Gameljne 56;1211;Ljubljana-Šmartno;11.10.1980;ž;V;Posadka;Stevard/esa;1.01.2005;1.575,87 €
+66;Breg;Viktorija;Koroška 31 a;3320;Velenje;11.07.1964;ž;VI;Trženje;Analitik;1.02.2002;1.368,50 €
+67;Bratina;Zlatka;Ruta 28;2344;Lovrenc na Pohorju;5.09.1963;ž;VI;IT;Programer;1.03.2003;1.247,72 €
+68;Božnik;Tina;Neubergerjeva 16;1000;Ljubljana;31.03.1961;ž;VII;Skupne službe;Vodja nabave;1.01.2002;1.499,43 €
+69;Božič;Marija;Breg 9;3000;Celje;10.05.1983;ž;V;Posadka;Stevard/esa;1.01.2005;1.572,97 €
+70;Bižič;Anastazij;Jamnikova 1;2342;Ruše;18.05.1984;m;VI;Posadka;Pilot;1.11.2002;1.776,55 €
+71;Bezget;Saša;Kamniška grapa 47;2351;Kamnica;25.08.1984;m;V;IT;Programer;1.03.2003;1.254,86 €
+72;Berglez;Vida;Lukavci 9;9242;Križevci pri Ljutomeru;22.05.1980;ž;VI;Posadka;Stevard/esa;1.09.2002;1.583,97 €
+73;Berden;Simona;Kraigherjeva 7;3000;Celje;30.08.1971;ž;V;Trženje;Analitik;1.01.2002;1.376,99 €
+74;Berden;Tanja;Liptovska ulica 45;3210;Slovenske Konjice;9.09.1963;ž;V;Trženje;Referent;1.01.2003;1.195,77 €
+75;Beranič;Urban;Goriška cesta 48;3320;Velenje;4.04.1946;m;IV;Vzdrževanje;Mehanik;1.06.2002;1.237,71 €
+76;Baumhakl;Jasna;Pristaniška 14;6000;Koper/Capodistria;12.09.1970;ž;V;Trženje;Analitik;1.11.2004;1.351,61 €
+77;Barun;Milan;Ulica v Zadrže 4;3240;Šmarje pri Jelšah;26.10.1956;m;V;Skupne službe;Referent;1.01.2003;1.276,94 €
+78;Baloh;Aleksandra;Cven 6C;9240;Ljutomer;16.03.1981;ž;VII;Posadka;Stevard/esa;1.09.2002;1.582,95 €
+79;Bajc;Nataša;Vihterjeva 2/A;3212;Vojnik;2.08.1977;ž;V;Posadka;Stevard/esa;1.01.2005;1.578,58 €
+80;Babič;Metka;Ajševiča 53;5000;Nova Gorica;31.01.1981;ž;V;Posadka;Stevard/esa;1.01.2005;1.577,17 €
+81;Auguštiner;Dijana;Ul. IX. korpusa 45;5000;Nova Gorica;14.06.1987;ž;V;Posadka;Stevard/esa;1.01.2003;1.566,77 €
+82;Auguštin;Rosvita;Mariborska cesta 86;3000;Celje;12.03.1973;ž;V;Skupne službe;Referent;1.01.2003;1.293,10 €
+83;Arzenšek;Mirjana;Cesta Talcev 51;4000;Kranj;16.01.1980;ž;VII;IT;Sistemski inženir;1.03.2003;1.376,97 €
+84;Arzenšek;Branko;Cesta na Ostrožno 4;3000;Celje;17.09.1984;m;V;IT;Programer;1.03.2003;1.266,74 €
+85;Artič;Polona;Dobje 26;3224;Dobje pri Planini;3.04.1976;ž;V;Trženje;Analitik;1.01.2002;1.361,78 €
+86;Arhanič;Metka;Bistrica ob Sotli 9;3256;Bistrica ob Sotli;11.04.1981;ž;V;Posadka;Stevard/esa;1.01.2003;1.570,34 €
+87;Andre;Edi;Griže 10b;3302;Griže;7.08.1967;m;VI;Posadka;Pilot;1.11.2002;1.772,89 €
+88;Ameršek;Tina;Trška cesta 66;3254;Podčetrtek;26.05.1959;ž;VI;Trženje;Komercialist;1.06.2002;1.272,99 €
+89;Aleksić;Vida;Popovičeva 10;3000;Celje;30.01.1960;ž;V;Trženje;Referent;1.01.2002;1.196,30 €
+90;Agić;Leo;Ulica Pohorskega bataljona 121;1000;Ljubljana;6.06.1963;m;VI;Posadka;Pilot;1.11.2002;1.759,22 €
+91;Žumer;Urška;Ziherlova 2;1000;Ljubljana;13.03.1959;ž;V;Trženje;Komercialist;1.01.2002;1.248,48 €
+92;Žmavc;Andreja;Kozje 37;3260;Kozje;23.04.1974;ž;VII;Trženje;Urednik;1.04.2003;1.307,49 €
+93;Žmavc;Milena;Čopova 6;3310;Žalec;21.04.1980;ž;V;Posadka;Stevard/esa;1.01.2003;1.578,94 €
+94;Žerjav;Tadej;Cesta na Ljubečno 15;3000;Celje;26.05.1955;m;V;Trženje;Analitik;1.01.2002;1.376,39 €
+95;Žagar;Breda;Ulica Dušana Kvedra 40;3230;Šentjur;14.10.1969;ž;VII;Trženje;Komercialist;1.01.2002;1.261,38 €
+96;Zorman;Robert;Cinkarniška pot 2;3000;Celje;21.09.1955;m;IV;Vzdrževanje;Mehanik;1.06.2002;1.244,98 €
+97;Zečević;Marko;Glavičeva ulica 15;3313;Polzela;24.12.1959;m;V;Vzdrževanje;Mehanik;1.06.2002;1.244,61 €
+98;Zavšek;Robert;Ulica Ruške čete 2/a;2342;Ruše;13.10.1967;m;VII;IT;Sistemski inženir;1.03.2003;1.357,89 €
+99;Weingerl;Zlatko;Orožnov trg 2;3270;Laško;23.09.1977;m;VI;Posadka;Pilot;1.11.2002;1.755,82 €
+100;Vrtovec;Mateja;Ladja 10;1215;Medvode;3.02.1982;ž;V;Posadka;Stevard/esa;1.01.2003;1.566,87 €
+101;Vrtovec;Maja;Vikrče 35 B;1211;Ljubljana-Šmartno;2.10.1981;ž;V;Posadka;Stevard/esa;1.01.2003;1.561,25 €
+102;Vreš;Borut;Goriška 51;3320;Velenje;16.10.1967;m;VI;Posadka;Pilot;1.11.2002;1.758,20 €
+103;Vindiš;Igor;Podkraj 16/c;3320;Velenje;10.08.1954;m;V;Vzdrževanje;Mehanik;1.01.2002;1.229,24 €
+104;Vidovič;Aleksandra;Poljska cesta 24 a;2327;Rače;19.11.1979;ž;VII;Vodstvo;Član uprave;1.09.2002;1.725,56 €
+105;Velam;Tatjana;Trg mladosti 3;3320;Velenje;11.04.1962;ž;V;Trženje;Referent;1.01.2003;1.211,44 €
+106;Vekić;Tatijana;Cesta na lepo njivo 2;3330;Mozirje;26.10.1962;ž;V;Trženje;Referent;1.01.2003;1.198,00 €
+107;Vegi;Aleksander;Liptovska ulica 45;3210;Slovenske Konjice;4.01.1954;m;IV;Vzdrževanje;Vzdrževalec;1.06.2002;1.016,91 €
+108;Vagner;Gregor;Trg celjskih knezov 9;3000;Celje;10.07.1970;m;VI;Posadka;Pilot;1.11.2002;1.775,35 €
+109;Užmah;Anton;Griže 9;3302;Griže;18.03.1953;m;VI;Trženje;Analitik;1.02.2002;1.373,00 €
+110;Toplak;Vladislav;Ilirska Ulica 2;1000;Ljubljana;17.01.1962;m;VII;Posadka;Pilot;1.09.2002;1.779,88 €
+111;Tomić;Rolando;Kocbekova 3;3000;Celje;27.10.1944;m;VII;Vzdrževanje;Vodja;1.04.2002;1.367,60 €
+112;Tkalec;Vanja;Nasperska Pot 33;1000;Ljubljana;25.03.1977;ž;V;Posadka;Stevard/esa;1.01.2003;1.578,00 €
+113;Tišler;Bojan;Trg mladosti 3;3320;Velenje;27.07.1951;m;IV;Vzdrževanje;Vzdrževalec;1.06.2002;1.003,00 €
+114;Težak;Tadej;Juhartova ulica 2;3311;Šempeter v Savinjski dolini;18.09.1966;m;V;IT;Sistemski inženir;1.03.2003;1.361,97 €
+115;Temerl;Samo;Vojkova 73;1000;Ljubljana;25.01.1965;m;VI;Posadka;Pilot;1.11.2004;1.767,03 €
+116;Švejda;Irina;Keršova ul. 1;3212;Vojnik;20.11.1982;ž;V;Posadka;Stevard/esa;1.01.2003;1.582,50 €
+117;Šraj;Marjana;Tomšičeva 2;6000;Koper/Capodistria;27.12.1982;ž;VI;Posadka;Stevard/esa;1.09.2002;1.566,98 €
+118;Špiljar;Mihaela;Ulica talcev 1;3310;Žalec;1.10.1980;ž;V;Posadka;Stevard/esa;1.01.2003;1.569,64 €
+119;Šlibar;Lidija;Na Skali 6;4000;Kranj;24.06.1984;ž;V;Posadka;Stevard/esa;1.01.2003;1.575,74 €
+120;Škrinjar;Milan;Gregorčičeva 6;3000;Celje;2.06.1965;m;VI;Posadka;Pilot;1.11.2002;1.770,08 €
+121;Šketelj;Tamara;Rudarska cesta 6A;3320;Velenje;29.12.1964;ž;V;Trženje;Komercialist;1.01.2002;1.267,74 €
+122;Šimek;Vesna;Levstikova 13;2000;Maribor;22.09.1967;ž;V;Trženje;Komercialist;1.01.2003;1.260,91 €
+123;Šimac;Branko;Belokranjska 17;1000;Ljubljana;30.07.1963;m;VI;Posadka;Pilot;1.11.2004;1.759,90 €
+124;Šetar;Mirjana;Sevce 2a;3272;Rimske Toplice;29.12.1979;ž;V;Posadka;Stevard/esa;1.01.2003;1.560,80 €
+125;Stojinovič;Sonja;Šolska cesta 23;3330;Mozirje;13.06.1969;ž;V;Trženje;Referent;1.01.2003;1.210,79 €
+126;Spačal;Majda;Šalek 108;3320;Velenje;27.12.1983;ž;V;IT;Programer;1.01.2002;1.270,91 €
+127;Sobočan;Martina;Kocenova 4-8;3000;Celje;11.04.1982;ž;V;Posadka;Stevard/esa;1.01.2005;1.584,59 €
+128;Slapnik;Boštjan;Kajuhova 3;3270;Laško;10.05.1961;m;V;Vzdrževanje;Mehanik;1.01.2002;1.248,96 €
+129;Skela;Tatjana;Pri šoli 11;2351;Kamnica;24.08.1961;ž;V;Trženje;Komercialist;1.01.2004;1.267,99 €
+130;Semprimožnik;Slavica;Ljubljanska 98;2327;Rače;14.05.1970;ž;V;Trženje;Komercialist;1.02.2002;1.265,24 €
+131;Savnik;Dari;Stegenškova ulica 11;3000;Celje;11.12.1970;m;VI;Posadka;Pilot;1.11.2004;1.771,62 €
+132;Saksida;Stane;Kozje 131;3260;Kozje;5.10.1954;m;V;Vzdrževanje;Mehanik;1.01.2002;1.251,40 €
+133;Sabol;Marjana;Einspielerjeva 13;1000;Ljubljana;10.01.1983;ž;V;Posadka;Stevard/esa;1.01.2005;1.584,80 €
+134;Sabo;Marjan;Puterlejeva 7;1000;Ljubljana;26.05.1959;m;V;IT;Programer;1.03.2003;1.263,54 €
+135;Ruis;Aleksandra;Andričeva 23;1000;Ljubljana;14.09.1980;ž;VII;IT;Programer;1.03.2002;1.265,99 €
+136;Rožman;Janez;Cesta Na Žavcerja 69;2354;Bresternica;11.07.1956;m;VI;Trženje;Analitik;1.01.2003;1.367,90 €
+137;Rozman;Mojca;Kersnikova 19;3000;Celje;22.07.1978;ž;V;Trženje;Komercialist;1.01.2002;1.257,75 €
+138;Rop;Katja;Cesta Kozjanskega odreda 59;3230;Šentjur;14.02.1982;ž;VII;Posadka;Stevard/esa;1.09.2002;1.560,38 €
+139;Rogel;Remzija;Kocbekova 40 a;3202;Ljubečna;29.04.1973;ž;V;Trženje;Komercialist;1.01.2002;1.257,92 €
+140;Rednak;Jelena;Leskovec 9;2331;Pragersko;26.04.1965;ž;VI;Trženje;Analitik;1.11.2004;1.359,27 €
+141;Rataj;Gregor;Kapla 57;3304;Tabor;7.11.1981;m;V;IT;Programer;1.03.2002;1.268,51 €
+142;Rantaša;Jelena;Kocljeva 1;9250;Gornja Radgona;28.05.1963;ž;IV;Trženje;Komercialist;1.11.2004;1.263,30 €
+143;Radoslavič;Petra;Kidričeva ulica 5;3000;Celje;9.12.1976;ž;V;Posadka;Stevard/esa;1.01.2003;1.568,52 €
+144;Pušnik;Dragan;Rožna dolina c. VI/36;1000;Ljubljana;2.12.1963;m;V;IT;Programer;1.03.2003;1.261,27 €
+145;Pušnik;Damjan;Levstikova 2;3310;Žalec;5.04.1956;m;V;Vzdrževanje;Mehanik;1.06.2002;1.235,40 €
+146;Pratnemer;Danijela;Nušičeva 10;3000;Celje;21.01.1962;ž;VII;Trženje;Analitik;1.01.2002;1.368,40 €
+147;Pomperger;Boštjan;Vaška pot 1;1000;Ljubljana;9.05.1958;m;VII;IT;Programer;1.03.2003;1.263,35 €
+148;Pohorec;Amalija;Trubarjeva ulica 20;3270;Laško;17.02.1979;ž;VII;Posadka;Stevard/esa;1.09.2002;1.567,87 €
+149;Podhostnik;Dejan;Oblakova 20;3000;Celje;7.10.1954;m;VI;Vzdrževanje;Tehnik;1.06.2002;1.211,77 €
+150;Podgorelec;Suzana;Oblakova cesta 20;3000;Celje;12.04.1967;ž;V;Skupne službe;Referent;1.01.2003;1.278,75 €
+151;Pocrnja;Mihela;Ulica Gorenjskega odreda 6;4000;Kranj;4.05.1980;ž;V;IT;Sistemski inženir;1.03.2003;1.362,64 €
+152;Plasonik;Slavek;Planina 41a;3225;Planina pri Sevnici;10.02.1955;m;V;Vzdrževanje;Mehanik;1.01.2002;1.229,20 €
+153;Pipuš;Tadej;Cesta na Ljubečno 15;3000;Celje;1.01.1955;m;VI;Vzdrževanje;Mehanik;1.06.2002;1.241,55 €
+154;Petrović;Jože;V Drago 19;2000;Maribor;21.02.1967;m;VI;Posadka;Pilot;1.11.2002;1.754,98 €
+155;Petrena;Ivan;Kozje 37;3260;Kozje;13.03.1971;m;IV;Vzdrževanje;Tehnik;1.06.2002;1.222,32 €
+156;Petek;Mateja;Ulica Janeza Rožiča 26;1211;Ljubljana-Šmartno;2.09.1981;ž;V;Posadka;Stevard/esa;1.01.2003;1.580,95 €
+157;Peša;Dalibor;Celjska cesta 7;3250;Rogaška Slatina;17.10.1979;m;V;Vzdrževanje;Tehnik;1.03.2003;1.225,81 €
+158;Perkovič;Lidija;Prekorje 76A;3211;Škofja vas;2.05.1985;ž;V;Posadka;Stevard/esa;1.01.2003;1.565,80 €
+159;Pečnik;Nataša;Janževa Gora 37B;2352;Selnica ob Dravi;11.07.1977;ž;V;Posadka;Stevard/esa;1.01.2003;1.580,69 €
+160;Pačnik;Bogdan;Pernovo 4 A;3310;Žalec;28.03.1971;m;V;IT;Sistemski inženir;1.03.2003;1.372,67 €
+161;Okorn;Janez;Arclin 58;3211;Škofja vas;6.03.1956;m;V;Vzdrževanje;Tehnik;1.06.2002;1.216,34 €
+162;Okorn;Marjan;Kalanova ulica 21;1215;Medvode;6.12.1960;m;VI;Posadka;Pilot;1.11.2002;1.754,69 €
+163;Obreht;Barbara;Bežigrajska cesta 6;3000;Celje;23.01.1971;ž;VII;Vodstvo;Član uprave;1.03.2003;1.735,03 €
+164;Oblak;Darja;Groharjeva 11;1000;Ljubljana;12.03.1980;ž;VII;IT;Programer;1.03.2003;1.260,13 €
+165;Obajdin;Damjana;Mestni trg 18;3210;Slovenske Konjice;22.04.1963;ž;VII;Skupne službe;Referent;1.01.2002;1.293,73 €
+166;Nerat;Marcel;Škofjeloška 21;1215;Medvode;15.10.1965;m;V;IT;Sistemski inženir;1.03.2003;1.355,43 €
+167;Munda;Tanja;Rimska cesta 10;3311;Šempeter v Savinjski dolini;14.09.1963;ž;V;Trženje;Referent;1.01.2002;1.200,46 €
+168;Muhič;Mihaela;Falska cesta 10;2342;Ruše;23.09.1980;ž;V;Posadka;Stevard/esa;1.01.2003;1.574,18 €
+169;Mlakar;Nataša;Vrunčeva 7;3000;Celje;26.10.1977;ž;V;Posadka;Stevard/esa;1.01.2003;1.574,99 €
+170;Mirt;Melita;Cesta 25. Junija 1F;5000;Nova Gorica;21.08.1981;ž;V;Posadka;Stevard/esa;1.01.2003;1.570,24 €
+171;Miklavžina;Andreja;Bežigrajska cesta 6;3000;Celje;3.01.1973;ž;VII;Trženje;Vodja;1.02.2003;1.573,91 €
+172;Merklin;Jožef;Cesta IX/7;3320;Velenje;2.03.1948;m;IV;Vzdrževanje;Tehnik;1.06.2002;1.208,92 €
+173;Mencigar;Majda;Arclin 21 D;3211;Škofja vas;28.09.1983;ž;V;Trženje;Analitik;1.01.2002;1.365,93 €
+174;Medved;Ljubo;Tržaška 118;1000;Ljubljana;8.11.1960;m;V;IT;Sistemski inženir;1.03.2003;1.375,46 €
+175;Maurin;Jasmina;Vegova 26;3240;Šmarje pri Jelšah;30.11.1977;ž;V;Trženje;Analitik;1.06.2002;1.362,92 €
+176;Marksl;Anabrita;Žerjav 67;2392;Mežica;27.07.1978;ž;VII;Posadka;Stevard/esa;1.09.2002;1.584,49 €
+177;Marin;Jasmina;Tekačeva 60;3250;Rogaška Slatina;9.10.1979;ž;IV;Trženje;Komercialist;1.11.2004;1.249,00 €
+178;Marčič;Darko;Ziherlova Ulica 8;1000;Ljubljana;15.11.1963;m;VII;IT;vodja;1.02.2002;1.577,73 €
+179;Mandič;Suzana;Mariborska 67;3000;Celje;5.12.1975;ž;V;Skupne službe;Tajnik/ca;1.01.2003;1.456,65 €
+180;Malek;Drago;Verpete 4;3213;Frankolovo;10.04.1972;m;VI;Posadka;Pilot;1.11.2004;1.758,34 €
+181;Malec;Polona;Cesta na Roglo 17/D;3214;Zreče;10.02.1976;ž;V;Trženje;Komercialist;1.01.2002;1.247,61 €
+182;Majhenič;Gorazd;Zakl 6;3303;Gomilsko;12.08.1959;m;VI;Posadka;Pilot;1.11.2002;1.759,00 €
+183;Mahorko;Suzana;Hribernikova ulica 1;3330;Mozirje;15.08.1966;ž;V;IT;Programer;1.01.2002;1.253,80 €
+184;Lovšin;Irena;Griže 10b;3302;Griže;7.10.1984;ž;V;Posadka;Stevard/esa;1.01.2003;1.562,20 €
+185;Lorenčič;Vesna;Košnica 51b;3000;Celje;1.02.1973;ž;V;Trženje;Referent;1.01.2003;1.206,67 €
+186;Ljubej;Božo;Migojnice 122;3302;Griže;13.11.1952;m;VII;Skupne službe;Vodja financ;1.02.2003;1.509,13 €
+187;Lešer;Blaž;Klajnškova 14;3000;Celje;14.09.1950;m;VI;Vodstvo;Član uprave;1.02.2002;1.726,92 €
+188;Lašič;Martin;Mlinska 26;2000;Maribor;22.12.1965;m;VII;Posadka;Pilot;1.09.2002;1.769,49 €
+189;Lampreht;Tamara;Levstikova 2;3310;Žalec;18.06.1964;ž;V;Trženje;Referent;1.01.2003;1.213,49 €
+190;Ladinek;Polona;Šokat 5;3342;Gornji Grad;1.09.1974;ž;V;IT;Sistemski inženir;1.03.2003;1.370,99 €
+191;Kuprivec;Miran;Pečovje 37;3310;Žalec;23.06.1971;m;VII;Posadka;Pilot;1.09.2002;1.758,22 €
+192;Krebs;Zdenka;Bratov Učakar 60;1000;Ljubljana;23.04.1964;ž;VI;Trženje;Analitik;1.01.2002;1.370,86 €
+193;Krajnc;Milenka;Savinjsko nabrežje 2;3270;Laško;1.02.1980;ž;V;Trženje;Komercialist;1.01.2002;1.259,39 €
+194;Kovačič;Marjana;Ložnica pri Žalcu 52/a;3310;Žalec;4.08.1982;ž;V;Posadka;Stevard/esa;1.01.2003;1.583,55 €
+195;Kovačević;Tina;Gorica pri Šmartnem 44a;3000;Celje;13.04.1961;ž;V;Trženje;Analitik;1.01.2002;1.352,12 €
+196;Koštomaj;Simon;Josipa priola 6;2000;Maribor;18.06.1956;m;V;Trženje;Komercialist;1.01.2003;1.261,34 €
+197;Kolerič;Sonja;C.v Rastke 12;3333;Ljubno ob Savinji;7.09.1969;ž;V;Trženje;Referent;1.01.2003;1.215,99 €
+198;Kokol;Polona;Cesta na Roglo 11/J;3214;Zreče;11.06.1975;ž;V;Trženje;Referent;1.01.2003;1.203,40 €
+199;Knez;Vojko;Ulica v Zadrže 4;3240;Šmarje pri Jelšah;23.05.1955;m;IV;Vzdrževanje;Tehnik;1.06.2002;1.208,01 €
+200;Knez;Simona;Okrogarjeva ulica 7;3000;Celje;16.12.1971;ž;VI;Trženje;Analitik;1.06.2002;1.362,06 €

@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+outputs/logs/
+data/wardrobe.db
+data/processed_images/
+data/raw_images/
