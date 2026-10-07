@@ -1,7 +1,5 @@
 ## README.md
 
-Создай файл `README.md` в корне проекта и вставь:
-
 ```markdown
 # 👗 Wardrobe AI
 
