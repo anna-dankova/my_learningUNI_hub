@@ -7,7 +7,6 @@ public class Cart {
 
     public void addProduct(Product p) {
         items.add(p);
-        System.out.println("Product " + p + " successfully added to the cart");
     }
 
     public double calculateTotal() {
