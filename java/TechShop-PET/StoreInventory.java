@@ -19,12 +19,12 @@ public class StoreInventory {
         
     }
 
-    public void removeProduct(String name) {
+    public boolean removeProduct(String name) {
         if (productsByName.containsKey(name)) {
             productsByName.remove(name);
-            System.out.println("Product removed successfully");
-        } else
-            System.out.println("Product not found");
+            return true;
+        }
+        return false;
     }
 
     public void printInventoryStatics() {
@@ -32,6 +32,7 @@ public class StoreInventory {
         int phoneCount = 0;
         int laptopCount = 0;
         int headphonesCount = 0;
+
 
         for (Product p : productsByName.values()) {
             if (p instanceof Phone) {

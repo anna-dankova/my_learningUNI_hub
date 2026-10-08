@@ -48,14 +48,7 @@ public class Cart {
             }
         }
         if (!found) {
-            System.out.println("There are no wireless headphones in the cart.");
-        }
-    }
-
-    public void printAllCart() {
-        System.out.println("All products in the cart: ");
-        for (Product p : items) {
-            System.out.println("Name: " + p.getName() + ", Price: " + p.getPrice());
+            System.out.println("No wireless headphones in the cart.");
         }
     }
 
