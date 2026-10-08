@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         StoreInventory inventory = new StoreInventory();
         inventory.addProduct(new Phone("iPhone 15", 1000.0, 2));
-       // inventory.addProduct(new Laptop("Lenovo IdeaPad", 1200.0, 16));
+        inventory.addProduct(new Laptop("Lenovo IdeaPad", 1200.0, 16));
         inventory.addProduct(new Headphones("Sony WH-1000", 300.0, true));
 
         inventory.addProduct(new Phone("Samsung Galaxy S24", 900.0, 2));

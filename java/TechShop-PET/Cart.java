@@ -21,38 +21,33 @@ public class Cart {
         double maxPrice = 0;
         String expensiveName = "";
         if (items.isEmpty()) {
-            return "Cart is empty!";
+            return null;
         }
         for (Product p : items) {
-
             if (p.getPrice() > maxPrice) {
                 maxPrice = p.getPrice();
                 expensiveName = p.getName();
             }
         }
         
-        return "Most expensive product: " + expensiveName + ", with price: " + maxPrice;
+        return maxPrice + ", " + expensiveName;
     }
 
-    public void printWirelessHeadphonesOnly() {
-        boolean found = false;
+    public String getWirelessHeadphonesOnly() {
+        List<Headphones> wirelessHeadphones = new ArrayList<>();
 
         for (Product p : items) {
             if (p instanceof Headphones) {
                 Headphones h = (Headphones) p;
-
                 if (h.isWireless()) {
-              //      System.out.println("Wireless headphones: " + h.getName() + " " + h.getPrice() + "\n");
-                    found = true;
+                    wirelessHeadphones.add(h);
                 }
+            }else {
+                return null;
             }
-        }
-        if (!found) {
-            //System.out.println("No wireless headphones in the cart.");
-            return;
-        }
+            return wirelessHeadphones.toString();
     }
-
+    }
     @Override
     public String toString() {
         StringBuilder sb = new StringBuilder("Products in the list:\n");
