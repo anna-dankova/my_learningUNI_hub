@@ -42,13 +42,14 @@ public class Cart {
                 Headphones h = (Headphones) p;
 
                 if (h.isWireless()) {
-                    System.out.println("Wireless headphones: " + h.getName() + " " + h.getPrice() + "\n");
+              //      System.out.println("Wireless headphones: " + h.getName() + " " + h.getPrice() + "\n");
                     found = true;
                 }
             }
         }
         if (!found) {
-            System.out.println("No wireless headphones in the cart.");
+            //System.out.println("No wireless headphones in the cart.");
+            return;
         }
     }
 
