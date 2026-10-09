@@ -54,13 +54,13 @@ public class Cart {
      public List<Product> getProducts(){
         return new ArrayList<>(this.items);
      }
-     public void printProducts() {
-        StringBuilder sb = new StringBuilder("Products in the list:\n");
-        for (Product p : items) {
-            sb.append(p).append("\n");
-    }
-        System.out.println(sb.toString());
-    }
+    //  public void printProducts() {
+    //     StringBuilder sb = new StringBuilder("Products in the list:\n");
+    //     for (Product p : items) {
+    //         sb.append(p).append("\n");
+    // }
+    //     System.out.println(sb.toString());
+    // }
 }
 
 
