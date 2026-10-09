@@ -1,4 +1,4 @@
-package Lessons2.TechShop;
+package TechShopPET;
 
 public class Phone extends Product {
     protected int cameraCount;

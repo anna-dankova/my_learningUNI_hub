@@ -1,4 +1,4 @@
-package TechShop;
+package TechShopPET;
 
 public class Laptop extends Product {
     protected int ram;

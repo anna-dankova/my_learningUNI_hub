@@ -1,11 +1,14 @@
-package TechShop-PET;
+package TechShopPET;
 import java.util.List;
 import java.util.ArrayList;
 
 public class Cart {
-    private ArrayList<Product> items = new ArrayList<>();
+    private final List<Product> items = new ArrayList<>();
 
     public void addProduct(Product p) {
+        if (p == null) {
+            throw new IllegalArgumentException("Product cannot be null");
+        }
         items.add(p);
     }
 
@@ -21,7 +24,7 @@ public class Cart {
         double maxPrice = 0;
         String expensiveName = "";
         if (items.isEmpty()) {
-            return null;
+            throw new IllegalStateException("Cart is empty");
         }
         for (Product p : items) {
             if (p.getPrice() > maxPrice) {
@@ -46,6 +49,7 @@ public class Cart {
             return wirelessHeadphones.toString();
     }
     
+
 
     public String getProducts(){
         StringBuilder sb = new StringBuilder("Products in the list:\n");
