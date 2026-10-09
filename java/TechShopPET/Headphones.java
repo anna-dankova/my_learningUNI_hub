@@ -1,4 +1,4 @@
-package TechShopPET;
+package TechShopPet;
 
 public class Headphones extends Product {
     protected boolean isWireless;
@@ -17,3 +17,4 @@ public class Headphones extends Product {
         return super.toString() + ", | Wireless : " + isWireless();
     }
 }
+

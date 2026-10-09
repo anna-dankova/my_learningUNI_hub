@@ -1,4 +1,5 @@
-package TechShopPET;
+package TechShopPet;
+
 
 public class Main {
     public static void main(String[] args) {

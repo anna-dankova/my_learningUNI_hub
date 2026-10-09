@@ -1,4 +1,4 @@
-package TechShopPET;
+package TechShopPet;
 import java.util.List;
 import java.util.ArrayList;
 
@@ -51,12 +51,17 @@ public class Cart {
     
 
 
-    public String getProducts(){
+     public List<Product> getProducts(){
+        return new ArrayList<>(this.items);
+     }
+     public void printProducts() {
         StringBuilder sb = new StringBuilder("Products in the list:\n");
         for (Product p : items) {
             sb.append(p).append("\n");
-        }
-        return sb.toString();
+    }
+        System.out.println(sb.toString());
     }
 }
+
+
 

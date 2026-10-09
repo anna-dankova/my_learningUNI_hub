@@ -1,4 +1,4 @@
-package TechShopPET;
+package TechShopPet;
 
 import java.util.HashMap;
 
