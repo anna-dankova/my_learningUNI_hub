@@ -1,4 +1,4 @@
-package Lessons2.TechShop;
+package TechShop;
 
 public class Main {
     public static void main(String[] args) {
@@ -49,11 +49,10 @@ public class Main {
         Product chosenPhone = inventory.getProduct("Asus ROG Phone 8");
 
         cart.addProduct(chosenPhone);
-        System.out.println(cart);
 
         System.out.println("Total cart value: " + cart.calculateTotal());
         System.out.println(cart.findMostExpensiveProduct());
-        cart.printWirelessHeadphonesOnly();
-        //cart.printAllCart();
+        System.out.println(cart.getWirelessHeadphonesOnly());
+        System.out.println(cart.getProducts());
     }
 }

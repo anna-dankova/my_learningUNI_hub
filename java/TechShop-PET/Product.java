@@ -1,4 +1,4 @@
-package Lessons2.TechShop;
+package TechShop;
 
 public class Product {
     private String name;

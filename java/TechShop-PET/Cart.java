@@ -1,5 +1,5 @@
-package Lessons2.TechShop;
-
+package TechShop-PET;
+import java.util.List;
 import java.util.ArrayList;
 
 public class Cart {
@@ -37,23 +37,22 @@ public class Cart {
         List<Headphones> wirelessHeadphones = new ArrayList<>();
 
         for (Product p : items) {
-            if (p instanceof Headphones) {
-                Headphones h = (Headphones) p;
+            if (p instanceof Headphones h) {
                 if (h.isWireless()) {
                     wirelessHeadphones.add(h);
                 }
-            }else {
-                return null;
             }
+        }
             return wirelessHeadphones.toString();
     }
-    }
-    @Override
-    public String toString() {
+    
+
+    public String getProducts(){
         StringBuilder sb = new StringBuilder("Products in the list:\n");
         for (Product p : items) {
-            sb.append(p.toString()).append("\n");
+            sb.append(p).append("\n");
         }
         return sb.toString();
     }
 }
+
